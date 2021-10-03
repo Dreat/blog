@@ -1,8 +1,8 @@
 ---
 layout: post
 post_title: On receiving feedback
-published: false
-post_date: 2021-09-23 08:00:00
+published: true
+post_date: 2021-10-03 18:35:00
 categories: [soft_skills, new_blog]
 ---
 
